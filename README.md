@@ -1,6 +1,6 @@
 #Boosted Sparse Nonlinear Distance Metric Learning
 
-![image](https://github.com/yuting27/sDist/blob/master/experiment_demo.jpg)
+![image](https://github.com/yuting27/sDist/blob/master/figs/experiment_demo.jpg)
 
 This repository contains R codes for implementing the sDist algorithm in our paper Boosted Nonlinear Nonlinear Metric Learning. See the original paper [here](http://onlinelibrary.wiley.com/doi/10.1002/sam.11307/full).
 
